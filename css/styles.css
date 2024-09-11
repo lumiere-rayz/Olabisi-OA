@@ -494,7 +494,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/mountain-dusk.jpg);
+    background: url(../img/posterr.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -1976,4 +1976,19 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
+}
+
+.company-logo {
+    width: 150px; /* Adjust the size to make the logos smaller */
+    height: auto;
+    margin-bottom: 15px;
+}
+
+.places-worked .row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.places-worked .col-xs-6 {
+    margin-bottom: 20px;
 }
