@@ -494,7 +494,7 @@ a.active {
 /* ======= INTRODUCTION ======= */
 
 #intro {
-    background: url(../img/posterr.jpg);
+    background: url(../img/posterr-min.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
