@@ -623,8 +623,8 @@ a.fa.fa-angle-down:focus {
     margin: 0px auto;
     padding: 20px;
     height: 200px;
-    width: 50%;
-    max-width: 650px;
+    width: 100%;
+    max-width: 1000px;
 }
 
 #about #tl-dr h3 {
@@ -650,7 +650,7 @@ a.fa.fa-angle-down:focus {
 }
 
 .tldr-proc {
-    width: 30%;
+    width: 18%;
     display: inline-block;
     vertical-align: top;
 }
@@ -669,7 +669,7 @@ a.fa.fa-angle-down:focus {
 
 @media screen and (max-width: 1100px) {
     #about #tl-dr {
-        width: 70%;
+        width: 80%;
     }
 }
 
